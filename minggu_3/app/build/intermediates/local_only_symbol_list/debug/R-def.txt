@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+array countries
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_listView
+id btn_recycler
+id dataText
+id item1
+id item2
+id item3
+id listView
+id recycler_view
+id subItem1
+id subItem2
+id textView
+layout activity_list_view
+layout activity_main
+layout activity_recycler_view
+layout list_item
+menu list_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Minggu_3
+xml backup_rules
+xml data_extraction_rules

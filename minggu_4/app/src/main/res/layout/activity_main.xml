@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MINGGU 5"
+        android:gravity="center"
+        android:textSize="24sp"
+        android:layout_marginTop="80px"
+        android:textStyle="bold"
+        android:textColor="#3E3E3E"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INTENT IMPLICIT &amp; EXPLICIT"
+        android:gravity="center"
+        android:layout_marginTop="10px"/>
+
+    <Button
+        android:id="@+id/btn_explicit"
+        android:layout_width="200px"
+        android:layout_height="200px"
+        android:layout_marginTop="100px"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="#FFC107"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INTENT EXPLICIT"
+        android:gravity="center"
+        android:layout_marginTop="10px"/>
+    <Button
+        android:id="@+id/btn_implicit"
+        android:layout_width="200px"
+        android:layout_height="200px"
+        android:layout_marginTop="100px"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="#4CAF50"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INTENT IMPLICIT"
+        android:gravity="center"
+        android:layout_marginTop="10px"/>
+</LinearLayout>

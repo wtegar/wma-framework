@@ -1,0 +1,33 @@
+com.example.minggu_3.app-recyclerview-1.3.0-rc01-0 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\049417cbee56b8b5f653391bf4df3c53\transformed\recyclerview-1.3.0-rc01\res
+com.example.minggu_3.app-transition-1.2.0-1 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\0a36e3bc618ab66965c9d1eac5c3c209\transformed\transition-1.2.0\res
+com.example.minggu_3.app-lifecycle-runtime-2.5.1-2 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\0c91623461f20a4f5db958d4c7b4a643\transformed\lifecycle-runtime-2.5.1\res
+com.example.minggu_3.app-startup-runtime-1.1.1-3 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\14be97cfb7d22eb4aefe5df6c0625eeb\transformed\startup-runtime-1.1.1\res
+com.example.minggu_3.app-lifecycle-process-2.4.1-4 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\18e69b605a75f1e5ceb030dae6dd3d3b\transformed\lifecycle-process-2.4.1\res
+com.example.minggu_3.app-fragment-1.3.6-5 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\1c8904e41d31481622238a7d9b5d57ea\transformed\fragment-1.3.6\res
+com.example.minggu_3.app-cardview-1.0.0-6 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\2326cbe628476feb2973fcf8c9581bb8\transformed\cardview-1.0.0\res
+com.example.minggu_3.app-lifecycle-viewmodel-savedstate-2.5.1-7 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\23272c456f773983eb17988c9fb79435\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.minggu_3.app-appcompat-resources-1.6.1-8 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\257d7413e8a19a0ae95c2d946ef553b6\transformed\appcompat-resources-1.6.1\res
+com.example.minggu_3.app-lifecycle-livedata-core-2.5.1-9 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\276203b80d8121eb3fd61d1b480c2982\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.minggu_3.app-coordinatorlayout-1.1.0-10 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\3b19f2c8352453e7cfd3e7cadea2874e\transformed\coordinatorlayout-1.1.0\res
+com.example.minggu_3.app-activity-1.6.0-11 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\49df35de3af890f0d282b24b238dced6\transformed\activity-1.6.0\res
+com.example.minggu_3.app-constraintlayout-2.1.4-12 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\545aa1b08a71b77fa835142aa95224a0\transformed\constraintlayout-2.1.4\res
+com.example.minggu_3.app-customview-poolingcontainer-1.0.0-13 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\63a6a3ac2737ce56a2124b09c02f74a7\transformed\customview-poolingcontainer-1.0.0\res
+com.example.minggu_3.app-savedstate-1.2.0-14 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\6c343e4c1f667fa98d404303de6a8948\transformed\savedstate-1.2.0\res
+com.example.minggu_3.app-viewpager2-1.0.0-15 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\6d42c7951391c726dd0fac2820f667ad\transformed\viewpager2-1.0.0\res
+com.example.minggu_3.app-lifecycle-viewmodel-2.5.1-16 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\776b914eba1eda1b8e735ce32defe4d5\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.minggu_3.app-core-ktx-1.9.0-17 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\8ecadcb40df22249e0a1748a681a1d6a\transformed\core-ktx-1.9.0\res
+com.example.minggu_3.app-core-1.9.0-18 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\98339b716d8629ed40dd453619462b22\transformed\core-1.9.0\res
+com.example.minggu_3.app-drawerlayout-1.1.1-19 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\9afdc7b6e186a151ada6935b26de5c07\transformed\drawerlayout-1.1.1\res
+com.example.minggu_3.app-annotation-experimental-1.3.0-20 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\a107566b678386d116719d19a4846a31\transformed\annotation-experimental-1.3.0\res
+com.example.minggu_3.app-emoji2-1.2.0-21 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\ade3c84746a87e49be9c056e803a99e1\transformed\emoji2-1.2.0\res
+com.example.minggu_3.app-appcompat-1.6.1-22 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\c193f709a96315e52718da7d3a219112\transformed\appcompat-1.6.1\res
+com.example.minggu_3.app-emoji2-views-helper-1.2.0-23 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\cfd851daadc3d895c95b24e1f65b8ac6\transformed\emoji2-views-helper-1.2.0\res
+com.example.minggu_3.app-material-1.8.0-24 C:\Users\Fathan Maulana\.gradle\caches\transforms-3\d77c9d2cef6f484876104d814ee73e02\transformed\material-1.8.0\res
+com.example.minggu_3.app-pngs-25 D:\Kuliah\Semester 4\Workshop Mobile Framework\Praktikum\minggu_3\app\build\generated\res\pngs\debug
+com.example.minggu_3.app-resValues-26 D:\Kuliah\Semester 4\Workshop Mobile Framework\Praktikum\minggu_3\app\build\generated\res\resValues\debug
+com.example.minggu_3.app-rs-27 D:\Kuliah\Semester 4\Workshop Mobile Framework\Praktikum\minggu_3\app\build\generated\res\rs\debug
+com.example.minggu_3.app-packageDebugResources-28 D:\Kuliah\Semester 4\Workshop Mobile Framework\Praktikum\minggu_3\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.minggu_3.app-packageDebugResources-29 D:\Kuliah\Semester 4\Workshop Mobile Framework\Praktikum\minggu_3\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.minggu_3.app-merged_res-30 D:\Kuliah\Semester 4\Workshop Mobile Framework\Praktikum\minggu_3\app\build\intermediates\merged_res\debug
+com.example.minggu_3.app-debug-31 D:\Kuliah\Semester 4\Workshop Mobile Framework\Praktikum\minggu_3\app\src\debug\res
+com.example.minggu_3.app-main-32 D:\Kuliah\Semester 4\Workshop Mobile Framework\Praktikum\minggu_3\app\src\main\res

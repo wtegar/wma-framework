@@ -1,0 +1,4 @@
+#Sat Mar 04 13:26:09 WIB 2023
+base.0=D\:\\Kuliah\\Semester 4\\Workshop Mobile Framework\\Praktikum\\minggu_3\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

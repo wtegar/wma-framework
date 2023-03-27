@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.minggu_2.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" >
+        <action
+            android:id="@+id/action_mainFragment_to_linear_Layout"
+            app:destination="@id/linear_Layout" />
+        <action
+            android:id="@+id/action_mainFragment_to_relative_layout"
+            app:destination="@id/relative_layout" />
+    </fragment>
+    <fragment
+        android:id="@+id/linear_Layout"
+        android:name="com.example.minggu_2.Linear_Layout"
+        android:label="fragment_linear__layout"
+        tools:layout="@layout/fragment_linear__layout" >
+        <action
+            android:id="@+id/action_linear_Layout_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/relative_layout"
+        android:name="com.example.minggu_2.relative_layout"
+        android:label="fragment_relative_layout"
+        tools:layout="@layout/fragment_relative_layout" >
+        <action
+            android:id="@+id/action_relative_layout_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+</navigation>
